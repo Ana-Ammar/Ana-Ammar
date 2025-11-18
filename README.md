@@ -1,7 +1,6 @@
 ## Hi there! I'm Ammar Husain, Mern Stack Developer
 
 <br/>
-
 ### About Me
 This is <b> Ammar Husain</b>, a passionate learner from Bangladesh—exploring the world of <b>Web Development</b>.  I love building things that make life easier, smoother, and more organized.
 I write, I code, I learn — and I try to make something better every day..
@@ -29,8 +28,7 @@ Although I’m becoming a <b>MERN Stack Web Developer</b>, my long‑term goal i
 - ⚙️ Diving into **Advanced Backend Concepts** (authentication, architecture, APIs)  
 - 🌐 Improving React UI/UX and sharpening frontend mastery  
 
-
-<div gap="10px">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ana-Ammar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ana-Ammar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<br/>
+<div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ana-Ammar&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
