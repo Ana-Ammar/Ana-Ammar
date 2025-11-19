@@ -1,7 +1,11 @@
 
 <p align="center">
-  <img src="banner.jpg" width="100%" height="300px" />
+  <img src="Banner.jpg" width="100%" height="300px" />
 </p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&Center=true&width=600&lines=Hello!+Thanks+for+stopping+by+my+GitHub+profile.)](https://git.io/typing-svg)
+
+##
 
 ### About Me
 This is <b> Ammar Husain</b>, a passionate learner from Bangladesh—exploring the world of <b>Web Development</b>.  I love building things that make life easier, smoother, and more organized.
