@@ -1,5 +1,7 @@
 
-
+<p align="center">
+  <img src="banner.jpg" width="100%" height="300px" />
+</p>
 
 ### About Me
 This is <b> Ammar Husain</b>, a passionate learner from Bangladesh—exploring the world of <b>Web Development</b>.  I love building things that make life easier, smoother, and more organized.
