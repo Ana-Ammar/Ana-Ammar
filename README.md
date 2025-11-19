@@ -10,6 +10,15 @@ Although I’m becoming a <b>MERN Stack Web Developer</b>, my long‑term goal i
 
 <br/>
 
+### 🔥 What I'm Currently Exploring
+
+- 🚧 Exploring **Next.js** for modern, optimized frontend development  
+- 🟦 Learning **TypeScript** to write safer, scalable code  
+- ⚙️ Diving into **Advanced Backend Concepts** (authentication, architecture, APIs)  
+- 🌐 Improving React UI/UX and sharpening frontend mastery
+
+<br/>
+
 ### Skills & Technologies
 
 |       Skills Overview        | Technologies                                                                                                                                                                                                                          |
@@ -20,14 +29,13 @@ Although I’m becoming a <b>MERN Stack Web Developer</b>, my long‑term goal i
 | **Database**          | ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)                                                     |
 | **Tools & Platforms** | ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase) ![JWT](https://img.shields.io/badge/-JWT-333333?style=flat&logo=json-web-tokens) ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman) ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code) |
 
-<br/>
 
-### 🔥 What I'm Currently Exploring
+<br clear="both">
 
-- 🚧 Exploring **Next.js** for modern, optimized frontend development  
-- 🟦 Learning **TypeScript** to write safer, scalable code  
-- ⚙️ Diving into **Advanced Backend Concepts** (authentication, architecture, APIs)  
-- 🌐 Improving React UI/UX and sharpening frontend mastery  
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ana-Ammar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Ana-Ammar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="100" alt="streak graph"  />
+</div>
 
 <br/>
 <div align="left">
