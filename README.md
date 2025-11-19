@@ -1,9 +1,9 @@
 
 <p align="center">
-  <img src="Banner.jpg" width="100%" height="300px" />
+  <img src="Banner.jpg" width="100%" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&Center=true&width=600&lines=Hello!+Thanks+for+stopping+by+my+GitHub+profile.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7E43B&center=true&Center=true&width=600&lines=Hello!+Thanks+for+stopping+by+my+GitHub+profile.)](https://git.io/typing-svg)
 
 ##
 
