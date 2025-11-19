@@ -48,10 +48,14 @@ Although I’m becoming a <b>MERN Stack Web Developer</b>, my long‑term goal i
 
 ### Contact me
 <div align="left">
-  <a href="www.linkedin.com/in/ammar-husain-380b04194"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  &nbsp;
-  <a href="mailto:sanimammar818@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge"/></a
+ <a href="https://github.com/Ana-Ammar" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> &nbsp;
+<a href="https://x.com/AmmarQuasha" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> &nbsp;
+<a href="www.linkedin.com/in/ammar-husain-380b04194" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;
+<a href="https://medium.com/@sanimammar818"  target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> 
+
 </div>
+
+
 
 ##
 <div>
