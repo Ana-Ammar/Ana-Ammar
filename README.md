@@ -1,6 +1,5 @@
-## Hi there! I'm Ammar Husain, Mern Stack Developer
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Ammar%2C+Web+Developer)](https://git.io/typing-svg)
 
-<br/>
 
 ### About Me
 This is <b> Ammar Husain</b>, a passionate learner from Bangladesh—exploring the world of <b>Web Development</b>.  I love building things that make life easier, smoother, and more organized.
@@ -10,7 +9,7 @@ Although I’m becoming a <b>MERN Stack Web Developer</b>, my long‑term goal i
 
 <br/>
 
-### 🔥 What I'm Currently Exploring
+### What I'm Currently Exploring
 
 - 🚧 Exploring **Next.js** for modern, optimized frontend development  
 - 🟦 Learning **TypeScript** to write safer, scalable code  
@@ -29,14 +28,27 @@ Although I’m becoming a <b>MERN Stack Web Developer</b>, my long‑term goal i
 | **Database**          | ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)                                                     |
 | **Tools & Platforms** | ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase) ![JWT](https://img.shields.io/badge/-JWT-333333?style=flat&logo=json-web-tokens) ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman) ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code) |
 
-
-<br clear="both">
-
+&nbsp;
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ana-Ammar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img   
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=Ana-Ammar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=dracula&hide_border=false&order=2"
+    height="150"
+    alt="languages graph"  />
+  &nbsp;
   <img src="https://streak-stats.demolab.com?user=Ana-Ammar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="140" alt="streak graph"  />
 </div>
 
-<br/>
+&nbsp;&nbsp;&nbsp;
 
-<img src="https://raw.githubusercontent.com/Ana-Ammar/Ana-Ammar/output/snake.svg" alt="Snake animation" />
+### Contact me
+<div align="left">
+  <a href="www.linkedin.com/in/ammar-husain-380b04194"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  &nbsp;
+  <a href="mailto:sanimammar818@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge"/></a
+</div>
+
+##
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
