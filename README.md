@@ -54,7 +54,7 @@ Although I’m becoming a <b>MERN Stack Web Developer</b>, my long‑term goal i
   <h3>Find me here</h3>
  <a href="https://github.com/Ana-Ammar" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> &nbsp;
 <a href="https://x.com/AmmarQuasha" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> &nbsp;
-<a href="https://linkedin.com/in/ammar-husain-380b04194" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;
+<a href="https://linkedin.com/in/ammar-husainn" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;
 <a href="https://medium.com/@sanimammar818"  target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> 
 </div>
 
